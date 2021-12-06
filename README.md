@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SaadHassni
-- 👀 I’m interested in everything which is related to Python.
-- 🌱 I’m currently learning Django
-- 💞️ I’m looking to collaborate on Django
+- 👀 I’m interested in everything which is related to Web Technology.
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on anything in the stack of JavaScript
 - 📫 How to reach me https://www.linkedin.com/in/saad-hassni/
 
 <!---
